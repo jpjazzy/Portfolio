@@ -1,2 +1,2 @@
-# NewJavascriptPractice
-Getting back into learning javascript
+# Portfolio
+My initial portfolio.
